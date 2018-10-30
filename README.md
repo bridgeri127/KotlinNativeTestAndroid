@@ -6,6 +6,5 @@ Slides from this talk can be found at
 
 # How to use
 1. Download the [Kotlin Native Test Library](https://github.com/bridgeri127/KotlinNativeTestLibrary) project
-2. Build that project following the instructions [here](https://github.com/bridgeri127/KotlinNativeTestLibrary/blob/master/README.md)
-3. From the root of that project, run the command `./gradlew publishToMavenLocal`
-4. Rebuild this project, it should now find the library in the mavenLocal repository
+2. From the root of that project, run the command `./gradlew publishToMavenLocal`
+3. Rebuild this project, it should now find the library in the mavenLocal repository
